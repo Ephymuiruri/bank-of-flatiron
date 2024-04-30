@@ -15,6 +15,7 @@
   border-color: rgba(11, 139, 245, 0.5);
 }
 table#dataDisplay{
+  margin-top: 50px;
   font-family: Arial, Helvetica, sans-serif;
   border-collapse:collapse;
   width:100%;
@@ -23,11 +24,30 @@ table#dataDisplay{
 td,th{
   text-align: left;
   border: 2px solid rgb(216, 213, 213);
-  
+  height: 30px;
 }
 tr:nth-child(even){
   background-color: #dddddd;
 }
-th{
-  
+
+.form-group{
+display: flex;
 }
+.form-group >label,.form-group >input{
+  
+  height:30px; 
+  box-sizing: border-box;
+  font-size: 15px;
+}
+.form-group > input{
+  width: 100%;
+}
+.centered-button {
+  margin: 10px auto; /* Center the submit button horizontally */
+  display: block; 
+  margin-top: 25px;
+  font-size: 20px;
+  /* Ensure the button takes up full width */
+}
+
+

@@ -1,5 +1,5 @@
  
- const BankData = [
+ const Data = [
    {
      id: 1,
      Date: "29/4/2024",
@@ -45,7 +45,7 @@
  ];
  
  
-export default BankData
+export default Data
  /*  id:1,
     Date:29/4/2024,
     Description:"money deposit",

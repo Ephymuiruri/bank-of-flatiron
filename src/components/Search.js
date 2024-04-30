@@ -1,5 +1,4 @@
 import React from "react";
- import BankData from "../data/data ";
 
 // Bank Data 
 function Search ({setSearch}){
