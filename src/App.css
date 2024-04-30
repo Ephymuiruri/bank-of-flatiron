@@ -1,0 +1,33 @@
+#headerName{
+  color:white;
+  background-color: blueviolet;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 40px;
+}
+#searchArea{
+  margin: 10px;
+  margin-left: 2px;
+  width: 100%;
+  height:30px;
+  font-size: 20px;
+  border-width: 2.5px;
+  border-color: rgba(11, 139, 245, 0.5);
+}
+table#dataDisplay{
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse:collapse;
+  width:100%;
+  height: 10px;
+}
+td,th{
+  text-align: left;
+  border: 2px solid rgb(216, 213, 213);
+  
+}
+tr:nth-child(even){
+  background-color: #dddddd;
+}
+th{
+  
+}
