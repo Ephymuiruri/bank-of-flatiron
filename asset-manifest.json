@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bank-of-flatiron/static/css/main.9e02fb7e.css",
+    "main.js": "/bank-of-flatiron/static/js/main.55c6f69f.js",
+    "static/js/453.d3943c81.chunk.js": "/bank-of-flatiron/static/js/453.d3943c81.chunk.js",
+    "index.html": "/bank-of-flatiron/index.html",
+    "main.9e02fb7e.css.map": "/bank-of-flatiron/static/css/main.9e02fb7e.css.map",
+    "main.55c6f69f.js.map": "/bank-of-flatiron/static/js/main.55c6f69f.js.map",
+    "453.d3943c81.chunk.js.map": "/bank-of-flatiron/static/js/453.d3943c81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e02fb7e.css",
+    "static/js/main.55c6f69f.js"
+  ]
+}
